@@ -1,0 +1,24 @@
+<svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="62" width="62" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Multicolor_1_">
+   <g id="svg_15">
+    <polygon id="svg_16" fill="#D3D3D3" points="34,7 2,19 2,44 26,56 58,44 58,19 "/>
+    <polygon id="svg_17" fill="#1D1D1D" points="58,44 26,56 26,31 58,19 "/>
+    <polygon id="svg_18" fill="#212121" points="2,44 26,56 26,31 2,19 "/>
+    <path id="svg_19" fill="#1D1D1D" d="m34,21l0,4c0,1.1 -2.69,2 -6,2s-6,-0.9 -6,-2l0,-4c0,1.1 2.69,2 6,2s6,-0.9 6,-2z"/>
+    <path id="svg_20" fill="#D3D3D3" d="m28,19c-3.31,0 -6,0.9 -6,2s2.69,2 6,2s6,-0.9 6,-2s-2.69,-2 -6,-2z"/>
+    <path id="svg_21" fill="#1D1D1D" d="m22,15l0,4c0,1.1 -2.69,2 -6,2s-6,-0.9 -6,-2l0,-4c0,1.1 2.69,2 6,2s6,-0.9 6,-2z"/>
+    <path id="svg_22" fill="#D3D3D3" d="m16,13c-3.31,0 -6,0.9 -6,2s2.69,2 6,2s6,-0.9 6,-2s-2.69,-2 -6,-2z"/>
+    <path id="svg_23" fill="#1D1D1D" d="m38,9l0,4c0,1.1 -2.69,2 -6,2s-6,-0.9 -6,-2l0,-4c0,1.1 2.69,2 6,2s6,-0.9 6,-2z"/>
+    <path id="svg_24" fill="#D3D3D3" d="m32,7c-3.31,0 -6,0.9 -6,2s2.69,2 6,2s6,-0.9 6,-2s-2.69,-2 -6,-2z"/>
+    <path id="svg_25" fill="#1D1D1D" d="m50,15l0,4c0,1.1 -2.69,2 -6,2s-6,-0.9 -6,-2l0,-4c0,1.1 2.69,2 6,2s6,-0.9 6,-2z"/>
+    <path id="svg_26" fill="#D3D3D3" d="m44,13c-3.31,0 -6,0.9 -6,2s2.69,2 6,2s6,-0.9 6,-2s-2.69,-2 -6,-2z"/>
+   </g>
+  </g>
+ </g>
+</svg>
